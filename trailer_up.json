@@ -12,6 +12,6 @@
     "time": 10,
   "count":1,
     "host":"https://www.imdb.com",
-    "exp":"r'videoLegacyEncodings\\\#\&(.*?)\\}]#]\\,#videoInfoKey'"
+    "exp":"r'videoLegacyEncodings\\\#a#b(.*?)\\}]#]\\,#videoInfoKey'"
     
 }
